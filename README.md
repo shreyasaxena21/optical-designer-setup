@@ -38,15 +38,7 @@ A powerful web application for designing optical setups visually with real-time 
 
 ## 🎥 Demo
 
-**Live Demo:** [https://optical-designer.vercel.app](https://optical-designer.vercel.app)
-
-**Screenshots:**
-
-![Main Interface](https://via.placeholder.com/800x400?text=Main+Interface)
-*Drag-and-drop interface with real-time ray visualization*
-
-![Properties Panel](https://via.placeholder.com/800x400?text=Properties+Panel)
-*Component properties and simulation statistics*
+**Live Demo:** [[https://optical-designer.vercel.app](https://optical-designer.vercel.app)](https://optical-designer-setup.vercel.app/)
 
 ---
 
