@@ -38,7 +38,7 @@ A powerful web application for designing optical setups visually with real-time 
 
 ## 🎥 Demo
 
-**Live Demo:** [[https://optical-designer.vercel.app](https://optical-designer.vercel.app)](https://optical-designer-setup.vercel.app/)
+**Live Demo:** [https://optical-designer.vercel.app](https://optical-designer-setup.vercel.app/)
 
 ---
 
